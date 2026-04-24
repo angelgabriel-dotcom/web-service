@@ -1,4 +1,4 @@
-## 🚀 Go Avatar API
+# 🚀 Go Avatar API
 
 A high-performance backend service built with **Go** that generates unique user avatars. This project demonstrates how to handle RESTful routing, external API integration, and dynamic string manipulation.
 
